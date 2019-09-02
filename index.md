@@ -14,13 +14,9 @@
 - Piazza is a nice addition to the class framework
 
 
+[Link to Wikipedia page on CSS])(https://en.wikipedia.org/wiki/Cascading_Style_Sheets)
 
-**Bold** and _Italic_ and `Code` text
 
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
 ### Jekyll Themes
 
