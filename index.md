@@ -14,7 +14,7 @@
 - Piazza is a nice addition to the class framework
 
 
-[Link to Wikipedia page on CSS])(https://en.wikipedia.org/wiki/Cascading_Style_Sheets)
+[Link to Wikipedia page on CSS](https://en.wikipedia.org/wiki/Cascading_Style_Sheets)
 
 
 
