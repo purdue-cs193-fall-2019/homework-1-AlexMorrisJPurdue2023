@@ -1,25 +1,19 @@
-## Welcome to GitHub Pages
+# Alexander Morris' First CS193 Homework
 
-You can use the [editor on GitHub](https://github.com/kalutes/CS193_Fall18_Lab1/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
-### Markdown
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+### The parts I like about CS 193
 
-```markdown
-Syntax highlighted code block
 
-# Header 1
-## Header 2
-### Header 3
 
-- Bulleted
-- List
 
-1. Numbered
-2. List
+- I like how it is less formal than my other classes
+- I like how the slides and the presentation itself are properly simplified
+- I also like the low amount of homework
+- Piazza is a nice addition to the class framework
+
+
 
 **Bold** and _Italic_ and `Code` text
 
